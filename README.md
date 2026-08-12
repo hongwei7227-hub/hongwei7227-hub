@@ -45,3 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hongwei7227-hub&show_icons=true&hide_border=true&theme=default" height="150" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongwei7227-hub&layout=compact&hide_border=true&theme=default" height="150" alt="top langs"/>
 </div>
+
+<!-- tech stack section -->

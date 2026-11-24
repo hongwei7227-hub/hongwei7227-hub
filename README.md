@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- CS student at **Zhejiang University** (浙江大学).
+- CS student at **Zhejiang University** (浙江大学,qs TOP50).
 - Building **Kairos** — a multi-agent US-equity swing-trading platform (LLM research agents + Java execution services).
 - Interested in LLM Agents, RAG, Agentic RL and high-concurrency backend.
 
